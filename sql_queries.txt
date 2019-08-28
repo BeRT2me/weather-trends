@@ -1,0 +1,7 @@
+SELECT * FROM city_list
+SELECT * FROM city_list WHERE country='United States'
+
+SELECT * FROM city_data WHERE city='Seattle'
+    #Download CSV as seattle_city_data.csv
+SELECT * FROM global_data
+    #Download CSV as global_data.csv
